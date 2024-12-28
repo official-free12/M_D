@@ -1,0 +1,6 @@
+# MT5搭建独立白标灰标蓝标整套mt5搭建CRM系统源码出售主标小白标FX6/HT5/ST6源码
+
+官网模版<br>http://example.com/<br>测试crm<br>管理端：example.com<br>管理员账户：admin@test<br>密码：abc12311<br>客户端：example.com<br>手机端：example.com<br>测试账户：11111@example.com<br>密码：abc12311<br>一）Manager管理员基本配置和功能：<br>Manager管理员3到10组。Manager配置的功能及权限：管理客户、开户，销户、入金、信用额度、修改定单、人工交易报表、设定点差、强制平仓、修改密码，设定持仓交割单或挂单小止盈止损点数；4台以上服务器；A、B区分仓管理。4台服务器以上支持供用<br>（二）管理员Admin配置和功能：<br>Admin软件包含Manager管理员全部配置和功能，另外还包括以下内容：1、拥有系统高权管理； 2、系统设置 3、交易管理 4、交易柜台<br>5、价格更改 6、多台服<br>务器联机 7、恢复交易历史 8、数据源调整 9、备份服务调整 10、交易市场设定 11、交易单更改 12、平台时间设定（全世界） 13、可添加商品； 14、设置商品<br>点差； 15、设置商品利息； 16、设置商品计算盈亏；17、设置独立节假日； 18、设置开盘时间收盘时间； 19、设置时差； 20、开设新交易市场； 21、开设新客<br>户组； 22、管理客户组； 23、开户管理员； 24、设置管理员权限与时限； 25、重启服务； 26、修改价格 27、更改K线图历史价格 28、同步历史数据； 29、重<br>启数据来源； 30、帐号管理全部管理； 31、交易单全权管理操作； 32、商品历史数据管理； 33、服务器日志查询；<br>有系统设置，交易管理，客户端，什么是系统设置，系统带高管理权限，什么控制开盘停盘，修改点差佣金利息，添加商品，开代理，权限分<br>配，修改定单等等都由系统控制。可以修改一切能够修改的功能。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/LG3IS" style="color: red;">https://mega-file.org/LG3IS</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
